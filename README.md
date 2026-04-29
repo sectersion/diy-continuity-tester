@@ -12,6 +12,18 @@ The solder quality isn't the best, but I learned how to use my iron so I conside
 <img width="1920" height="1080" alt="Internal Wiring" src="https://github.com/user-attachments/assets/072da00e-f8c8-4a95-8462-21b52bd3bb59" />
 
 ---
+## BOM
+
+This project is pretty simple to build. You need a:
+ - perfboard
+ - male to male jumper wires
+ - 5v buzzer
+ - 220R resistor
+ - LED (any color, i used red)
+
+Most of these parts can be found in "microcontroller starter kits" if you want to buy them all at once.
+
+---
 
 ### How it works
 I designed a wiring diagram to explain better how this project works.
